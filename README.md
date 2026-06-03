@@ -27,7 +27,7 @@ cd Naukri_Resume_update
 
 **2. Configure your credentials**
 
-Edit the `.env` file and fill in your details:
+create the `.env` file and fill in your details:
 
 ```env
 NAUKRI_EMAIL=your_email@gmail.com
